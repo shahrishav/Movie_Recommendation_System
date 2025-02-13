@@ -2,3 +2,4 @@ venv/
 nbconvert/templates/webpdf/index.pdf.j2
 *.pkl
 similarity.pkl # Prevent it from being added again
+similarity.pkl
